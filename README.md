@@ -1,28 +1,23 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bayon&family=Quicksand:wght@300;400;500;600;700&family=Tillana&display=swap" rel="stylesheet">
+# 🧑‍💻 About Me
 
+I am a Competitive Programmer and Software Developer from India 💻
 
+- 🌱 I’m in my 4th year of CSE undergrad.
+- 🔭 Exploring new technologies, building awesome tools and software.
+- 🙃 In my free time, I like to:
+  - ⚙️ Develop something useful for myself.
+  - 😈 Experiment with new technologies.
+  - ⚡ Grind on LeetCode and CodeForces.
+- 🏅 I love participating in Coding Contests for my routine dose of adrenaline.
 
-# 🧑‍💻 About Me 
+---
 
-I am a Competitive programmer and Software Developer from India 💻
+# 🚀 My Tech Stack
 
-- 🌱 I’m in my 4nd year of CSE undergrad.
+<img src="my_folder/techstack%20(1).svg" alt="My Tech Stack">
 
-- 🔭 Exploring new technologies, building awesome tools and softwares.
+<!-- 
+# 🧠 My Competitive Profile
 
-- 🙃 In my free time, I like to :
-    - ⚙️ Develop something for helping myself.
-    - 😈 Experiment with new technologies.
-    - ⚡ And grind LeetCode or CodeForces
-
-- 🏅 And I love participating in Coding Contests for my routine dose of adrenaline 
-
-# My Tech Stack
-
-<img src="my_folder/techstack(1).svg" alt = "My tech Stack">
-
-<!-- # My Competitive Profile
-
-<img src="README/competitive.svg" alt = "Competitive"> -->
+<img src="README/competitive.svg" alt="Competitive Profile">
+-->
