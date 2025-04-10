@@ -21,7 +21,7 @@ I am a Competitive programmer and Software Developer from India 💻
 
 # My Tech Stack
 
-<img src="README/techstack(1).svg" alt = "My tech Stack">
+<img src="my_folder/techstack(1).svg" alt = "My tech Stack">
 
 <!-- # My Competitive Profile
 
